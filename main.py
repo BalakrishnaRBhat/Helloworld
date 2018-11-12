@@ -1,4 +1,4 @@
 import time
-print("hello")
-print("Hello Balakrishna R Bhat")
-
+for i in range(1,11):
+    print("Hello World")
+    time.sleep(2)
